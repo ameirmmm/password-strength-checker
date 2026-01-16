@@ -22,3 +22,4 @@ The app scores a password in real time and shows which requirements are met usin
 
 ## Running the project
 Open `index.html` in your browser or run it using Live Server in VS Code.
+This is my first mini-web project and I built it to practice JavaScript logic and real-time UI updates.
